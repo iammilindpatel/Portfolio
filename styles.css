@@ -427,11 +427,11 @@
 }
 
 #project2 {
+  margin-left: 120px;
   /* background-image: url(./images/projects/Project1.png); */
   background-image: url(./images/MyProjects/project02.png);
 }
 #project3 {
-  margin-left: 120px;
   /* background-image: url(./images/projects/Project2.png); */
   /* background-image: url(./images/MyProjects/127.0.0.1_5501_original_index.html.png); */
   background-image: url(./images/MyProjects/project03.png);
