@@ -428,8 +428,9 @@
 
 #project2 {
   margin-left: 120px;
-  /* background-image: url(./images/projects/Project1.png); */
   background-image: url(./images/MyProjects/project02.png);
+
+  /* background-image: url(./images/projects/Project1.png); */
 }
 #project3 {
   /* background-image: url(./images/projects/Project2.png); */
@@ -437,12 +438,12 @@
   background-image: url(./images/MyProjects/project03.png);
 }
 /* #project3{
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./images/projects/Project.png);
+}*/
+#project4 {
+  margin-left: 120px;
+  background-image: url(./images/MyProjects/project04.png);
 }
-#project4{
-    margin-left: 120px;
-    background-image: url(./images/projects/Project4.png);
-} */
 
 /* --------------- Skills section starts --------------  */
 .skills-container {
