@@ -445,6 +445,11 @@
   background-image: url(./images/MyProjects/project04.png);
 }
 
+#project5 {
+  /* margin-left: 120px; */
+  background-image: url(./images/MyProjects/project05.png);
+}
+
 /* --------------- Skills section starts --------------  */
 .skills-container {
   position: relative;
