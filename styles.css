@@ -699,7 +699,15 @@ footer {
     scale: 0.55;
   }
   .faded-text {
-    left: 5px;
+    font-size: 11.2rem;
+    font-weight: 700;
+    color: var(--clr-light-gray);
+    user-select: none;  
+    transition: all 3s;    
+    z-index: -1;
+    position: absolute;
+    bottom: -17%;
+    left: -5%;
   }
   .skill-fade-text {
     position: absolute;
@@ -852,6 +860,7 @@ footer {
   .user-image img {
     width: 200px;
     height: 200px;
+    box-shadow: #343d68;
   }
   .nav-items div {
     font-size: 10px;
