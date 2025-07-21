@@ -31,17 +31,21 @@
 
   padding-top: 1rem;
 }
-.logo {
+/* .logo {
   width: 30px;
-}
+} */
 .logo-container {
   display: flex;
   justify-content: baseline;
   align-items: center;
   gap: 11px;
 }
+.logo-container-img {
+    width: 50px;
+    margin-right: -10px;   
+}
 .logo-text {
-  margin-left: -1rem;
+  margin-left: -4px;
   font-size: 30px;
 }
 .nav-items {
@@ -93,8 +97,8 @@
   font-size: 7rem;
   color: rgb(231, 231, 231);
 
-  bottom: -16%;
-  left: -5%;
+  bottom: -21%;
+  left: 8%;
   font-weight: bold;
   transition: all 3s;
 }
@@ -170,13 +174,13 @@
   filter: grayscale(1);
   transition: all 1s;
   animation: scaleImage 5s linear infinite;
-  border-radius: 40px;
+  border-radius: 4px;
 }
 .user-image img {
   height: 390px;
   width: 345px;
   z-index: -9;
-  border-radius: 20px;
+  border-radius: 2px;
 }
 
 @keyframes scaleImage {
@@ -699,15 +703,7 @@ footer {
     scale: 0.55;
   }
   .faded-text {
-    font-size: 11.2rem;
-    font-weight: 700;
-    color: var(--clr-light-gray);
-    user-select: none;  
-    transition: all 3s;    
-    z-index: -1;
-    position: absolute;
-    bottom: -17%;
-    left: -5%;
+    left: 75px;
   }
   .skill-fade-text {
     position: absolute;
@@ -731,9 +727,9 @@ footer {
     flex-direction: column;
   }
   .faded-text {
-    font-size: 3rem;
-    bottom: -8%;
-    left: 2%;
+    font-size: 4rem;
+    bottom: -10.8%;
+    left: 8%;
   }
   .hero-section-left {
     align-items: center;
@@ -860,7 +856,6 @@ footer {
   .user-image img {
     width: 200px;
     height: 200px;
-    box-shadow: #343d68;
   }
   .nav-items div {
     font-size: 10px;
@@ -869,14 +864,18 @@ footer {
     font-size: 10px;
   }
   .faded-text {
-    bottom: -11%;
+    bottom: -12.5%;
   }
-  .logo {
+  /* .logo {
     width: 30px;
-  }
+  } */
   .logo-container {
-    gap: 15px;
+    gap: 5px;
   }
+  .logo-container-img {
+    width: 30px;
+    margin-right: 14px;   
+}
   .hero-section-description {
     width: 80%;
   }
