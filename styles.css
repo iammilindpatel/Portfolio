@@ -3,7 +3,17 @@
 
 :root {
   --bgOrange: #e84949;
+    --clr-dark-blue: #343d68;
+    --clr-orange: #e84949;
+
 }
+/* :root{
+    --clr-black: #000;
+    --clr-white: #fff;
+    --clr-light-gray: #E7E7E7;
+    --clr-blue: #4e45d5;
+} */
+
 * {
   margin: 0;
   padding: 0;
@@ -353,16 +363,12 @@
 }
 
 .project-number-right {
-  /* top: -45px;
-    right: -40px; */
-  top: 0;
-  right: 0;
+  top: -6px;
+  right: -24px;
 }
 .project-number-left {
-  /* top: -45px;
-    left: -40px; */
-  top: 0;
-  left: 0;
+  top: -4px;
+  left: -22px;
 }
 .project-content {
   position: absolute;
@@ -376,11 +382,11 @@
   transition: all 0.4s;
 }
 .project-content-left {
-  left: 10%;
+  left: 38%;
 }
 .project-content-right {
   /* right: -10%; */
-  right: 5%;
+  right: 38%;
 }
 
 .project-skills-container {
@@ -607,7 +613,7 @@
   padding: 0 1rem;
   font-size: 1.5rem;
 }
-
+/* 
 footer {
   position: relative;
   margin-top: -1px;
@@ -628,8 +634,65 @@ footer {
   color: #535c87;
   user-select: none;
   font-size: 4em;
+} */
+
+footer{
+    color: #fff;
+    background-color: var(--clr-dark-blue);
+    padding: 4rem 8rem;
+    /* position: relative; */
 }
-.link-wrapper {
+
+    .footer-content{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2rem 2.5rem;
+    }
+
+    .footer-fadded-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.5rem;
+        color: #535c87;
+        user-select: none;
+    }
+
+    .footer-content .nav-div ul{
+        display: flex;
+        gap: 2rem;
+        color: #fff;
+
+    }
+
+    .footer-content .nav-div ul a{
+        text-decoration: none;
+        font-size: 1rem;
+        color: #fff;
+    }
+
+    .footer-content .nav-div ul li a:hover{
+        font-weight: 500;
+        color: var(--clr-orange);
+    }
+
+    .social-icons{
+        display: flex;
+        gap: 1.6rem;
+    }
+
+    .social-icons .icon{
+        font-size: 2rem;
+        transition: all 0.4s;
+        
+    }
+
+    .social-icons .icon:hover{
+        color: var(--clr-orange);
+    }
+
+/* .link-wrapper {
   display: flex;
   gap: 1.2rem;
 }
@@ -644,7 +707,7 @@ footer {
 .icon-wrapper {
   display: flex;
   gap: 1rem;
-}
+} */
 
 /* --------------- Responsive properties starts ---------------------- */
 
