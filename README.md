@@ -12,7 +12,7 @@
 
 ## 🖥️ Live Demo
 
-Check out the live demo of my portfolio [here](#).
+Check out the live demo of my portfolio [here](https://milindpatel.netlify.app/).
 
 ---
 
