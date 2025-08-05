@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&pause=1000&color=E84949&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Developer;UI-UX+Designer;Coder" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/iammilindpatel"><img src="https://img.shields.io/github/followers/iammilindpatel?style=social"></a>
-  <a href="https://github.com/iammilindpatel/My-Portfolio_Milind"><img src="https://img.shields.io/github/stars/iammilindpatel/My-Portfolio_Milind?style=social"></a>
-  <a href="https://github.com/iammilindpatel/My-Portfolio_Milind"><img src="https://img.shields.io/github/license/iammilindpatel/My-Portfolio_Milind"></a>
-</p>
+
 
 ---
 
