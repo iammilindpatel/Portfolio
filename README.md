@@ -69,13 +69,10 @@ Check out the live demo of my portfolio [here](https://milindpatel.netlify.app/)
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](#) or use the contact form on the website!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/milindpatel13298) 
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Animated" />
-</p>
 
 <p align="center">
   <b>@milind patel</b>
