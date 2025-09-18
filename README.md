@@ -30,10 +30,11 @@ Check out the live demo of my portfolio [here](https://milindpatel.netlify.app/)
 ## 📸 Preview
 
 <p align="center">
+  <img width="1920" height="1041" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/087c0092-a70f-4b64-9eba-13c9b1db50f6" />
   <img width="1920" height="1035" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/5a945c01-8128-48dc-8f45-2a15f4662c0e" />
   <img width="1920" height="1037" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/910e3955-4a96-437b-9243-3fa6d28d7449" />
   <img width="1920" height="1034" alt="Screenshot (398)" src="https://github.com/user-attachments/assets/5416c63a-1070-4785-aa3a-9e85968a8eb3" />
-  <img width="1920" height="1041" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/087c0092-a70f-4b64-9eba-13c9b1db50f6" />
+
 
   
 </p>
